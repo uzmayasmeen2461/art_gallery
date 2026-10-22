@@ -61,3 +61,9 @@ Final post-format production build, standalone TypeScript check and lint all pas
 ## Rounded logo presentation
 
 Header and footer now use circular CSS frames with hidden overflow, masking the source JPEG’s grey/dark rectangular margin. The original image file and lettering remain unchanged. Desktop visual review confirmed no grey corners; computed frames are 68 × 68 and 104 × 104 with 50% corner radius. The 320px layout remains free of horizontal overflow. TypeScript and lint passed.
+
+## Hosting preparation — 23 October 2026
+
+The user selected a free commercial-compatible alternative after the available Vercel teams were confirmed as Hobby. Netlify build configuration is prepared with Node.js 22, the standard Next.js adapter flow, and demo noindex headers. Local hosting CLI state is ignored by Git. Public site URL resolution uses the explicit environment value or Netlify's build-time URL.
+
+All 17 tests passed. A production build with a simulated hosting origin succeeded; the generated homepage contained that HTTPS origin and demo noindex metadata. TypeScript and lint passed after the build. Deployment is awaiting user authorization of the Netlify account; no live URL is claimed by these checks.

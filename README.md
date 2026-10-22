@@ -111,3 +111,15 @@ Brand name: **Dilshad Art Studio**. Tagline: **Art That Speaks to the Soul**. Th
 The rebrand retains existing browser saves: new `dilshad-*` storage keys fall back to legacy `atelier-*` keys when no new entry exists. The next bag/wishlist change writes the new keys; no saved artwork is discarded solely by the rebrand.
 
 Product pages provide WhatsApp and email sharing links. Set the actual HTTPS `NEXT_PUBLIC_SITE_URL` before sharing the deployed site. Portrait handoff remains disabled until a real business number is configured. There are no invented contact destinations or uploaded photos.
+
+## Netlify free-plan deployment
+
+`netlify.toml` configures the standard Next.js build and `.next` publish directory; Netlify automatically applies its Next.js adapter. `.nvmrc` and the build configuration select Node.js 22. A free Netlify team is required; do not enable a paid plan or automatic paid top-ups for this prototype.
+
+Netlify supplies the site's `URL` during builds. `next.config.ts` uses it for the public site origin when `NEXT_PUBLIC_SITE_URL` is not explicitly configured, so canonical and sharing URLs do not fall back to localhost on the deployed site. An explicit `NEXT_PUBLIC_SITE_URL` takes precedence, useful for a later custom domain.
+
+Demo indexing is disabled in both build configuration and an `X-Robots-Tag: noindex, nofollow` response header. At the approved public launch, remove that header and set `NEXT_PUBLIC_ALLOW_INDEXING=true` before rebuilding. Noindex is not access control.
+
+Leave business contacts blank until the actual artist-approved values are supplied. Git-connected hosting should build the repository root using `npm run build`, publishing `.next`; the default Next.js adapter handles images and routes. Never publish `.next` as plain static HTML without the adapter.
+
+Hosting CLI state (`.netlify/` and `.vercel/`) is ignored by Git. Source photos outside `public/` remain in the repository for archival/integrity tests but are not served as website files.

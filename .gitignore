@@ -5,3 +5,7 @@ out/
 !.env.example
 *.tsbuildinfo
 .DS_Store
+
+# Local hosting CLI state and credentials
+.netlify/
+.vercel/
