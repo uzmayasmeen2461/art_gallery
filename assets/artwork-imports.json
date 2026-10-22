@@ -1,0 +1,155 @@
+[
+  {
+    "sourceFilename": "1000118964.jpg",
+    "archivedPath": "assets/source-artworks/1000118964.jpg",
+    "sha256": "d23e243eef4c85d0f8f192e4771b38947d967c8a7c2e9e85dc07fa9a8112f77d",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Wildflower field, yellow sky and dark hills",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000118967.jpg",
+    "archivedPath": "assets/source-artworks/1000118967.jpg",
+    "sha256": "c731d72a0c6f9ce743cc43402eea1b9333f720cf886e4080771d1197f418a303",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Blue sea beside a sandy shore and palm cluster",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000118973.jpg",
+    "archivedPath": "assets/source-artworks/1000118973.jpg",
+    "sha256": "15149779a66b3910deab7edd77e0e8bb20b6e52b4286b3622082d3d2e0eeecdf",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Red-roofed cottage, bare trees and reflective water",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000118976.jpg",
+    "archivedPath": "assets/source-artworks/1000118976.jpg",
+    "sha256": "96779572f41593e16be351b779df49639987ac11d5dd5e8e9686aed7d0fd0133",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Cottage beneath white clouds with tall pink flowers",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000118987.jpg",
+    "archivedPath": "assets/source-artworks/1000118987.jpg",
+    "sha256": "cb532911512c80ec43bfdd087c4427cccc59fff5a5bdfa502025efec5bb13425",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Orange cottage with stepping stones, flowers and blue water",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000121426.jpg",
+    "archivedPath": "assets/source-artworks/1000121426.jpg",
+    "sha256": "35a5ce4a11f10b4e36874cd23eca75afbca652bf57861fc5837eb5474ca29790",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Large leafy tree and a meadow of small flowers",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123014.jpg",
+    "archivedPath": "assets/source-artworks/1000123014.jpg",
+    "sha256": "3b86c5f68a405e2d93bb8a498483a91c54b6643d942e4868be4933941705ece8",
+    "artworkId": "ART003",
+    "publicPath": "/artworks/sunset-flower-meadow.jpg",
+    "visualReference": "Hanging rectangular painting of sunset above a flower meadow",
+    "reviewStatus": "visual-match-for-client-review"
+  },
+  {
+    "sourceFilename": "1000123029.jpg",
+    "archivedPath": "assets/source-artworks/1000123029.jpg",
+    "sha256": "45906642fe4f24c3c696fb02fa0459dda1b3995c82a9d0dc3652edaba343ac45",
+    "artworkId": "ART004",
+    "publicPath": "/artworks/tropical-beach.jpg",
+    "visualReference": "Two palms above a beach and white surf",
+    "reviewStatus": "visual-match-for-client-review"
+  },
+  {
+    "sourceFilename": "1000123033.jpg",
+    "archivedPath": "assets/source-artworks/1000123033.jpg",
+    "sha256": "6c219136ff7c396f27cb554724bbeb87f17ab36a00c3e7370e0358a9621c126d",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Sunlit lake with foreground flowers",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123036.jpg",
+    "archivedPath": "assets/source-artworks/1000123036.jpg",
+    "sha256": "af5dea3ee0db111f860b581159f3c4e41dc962f181d18aeb03e44cab2326f646",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Pink flowering tree, swing and moon",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123039.jpg",
+    "archivedPath": "assets/source-artworks/1000123039.jpg",
+    "sha256": "168a0366877876943af9c774e05c6c9a13ba9a645cc4cb779426f03cac37d7c8",
+    "artworkId": "ART002",
+    "publicPath": "/artworks/sunlit-ocean.jpg",
+    "visualReference": "Sun and rays over a curved blue bay with palms",
+    "reviewStatus": "visual-match-for-client-review"
+  },
+  {
+    "sourceFilename": "1000123042.jpg",
+    "archivedPath": "assets/source-artworks/1000123042.jpg",
+    "sha256": "31151759dbd814083e028723dc1765d129bb7571273b98d13d798eb4324ad061",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Flower meadow and distant blue mountains; supplied photograph includes social interface overlays",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123048.jpg",
+    "archivedPath": "assets/source-artworks/1000123048.jpg",
+    "sha256": "db09d2c4e409e2010d0cb03e74a2a7649eff01685c87c0f45086b27988448faf",
+    "artworkId": "ART001",
+    "publicPath": "/artworks/colourful-tulips.jpg",
+    "visualReference": "Pink, red and yellow tulips against a pale background",
+    "reviewStatus": "visual-match-for-client-review"
+  },
+  {
+    "sourceFilename": "1000123052.jpg",
+    "archivedPath": "assets/source-artworks/1000123052.jpg",
+    "sha256": "85609a05403ac76b3b9a00527543fa0efcd8fc9a85af0a50d3f3a1464d707737",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Small white cottage on a green hillside",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123055.jpg",
+    "archivedPath": "assets/source-artworks/1000123055.jpg",
+    "sha256": "2ac8376cc5d124030a54dbea492c263278b81a3bf6a1a9efe99c53ccf82f8c8b",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Lone tree in a green meadow beneath a violet sky",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  },
+  {
+    "sourceFilename": "1000123058.jpg",
+    "archivedPath": "assets/source-artworks/1000123058.jpg",
+    "sha256": "4898f1d39514a97410b1854b44e3b3682ee252044ed195435957b0aec64b90f5",
+    "artworkId": "ART005",
+    "publicPath": "/artworks/forest-waterfall.jpg",
+    "visualReference": "Wide waterfall in green woodland above a pale blue pool",
+    "reviewStatus": "visual-match-for-client-review"
+  },
+  {
+    "sourceFilename": "1000123060.jpg",
+    "archivedPath": "assets/source-artworks/1000123060.jpg",
+    "sha256": "4580991aa0a91c01990285ce9c811d305c294708e238812ae0998fd910d61dc4",
+    "artworkId": null,
+    "publicPath": null,
+    "visualReference": "Bench beside a lake under a leafy tree",
+    "reviewStatus": "awaiting-title-price-and-availability"
+  }
+]
